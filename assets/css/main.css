@@ -902,6 +902,9 @@ body {
     margin-bottom: 25px;
     letter-spacing: -2px;
     line-height: 56px; }
+    @media (max-width: 370px) {
+      .products__adv-title {
+        font-size: 52px; } }
   .products__adv-text {
     font-size: 14px;
     text-transform: uppercase;
